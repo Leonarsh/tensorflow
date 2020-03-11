@@ -8,6 +8,7 @@
 | **`Documentation`** |
 |-----------------|
 | [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
+tensorflow/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
 
 **TensorFlow** is an open source software library for numerical computation using
 data flow graphs.  The graph nodes represent mathematical operations, while
